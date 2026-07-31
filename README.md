@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" alt="Python Assignment Portfolio Header" width="100%" />
+  <img src="Banner.png" alt="Python Assignment Portfolio Header" width="100%" />
 </div>
 
 <br />
