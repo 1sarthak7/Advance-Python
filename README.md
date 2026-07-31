@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Academic Portfolio
+# About
 
 This repository hosts a curated collection of Python scripts developed as part of the second-year programming curriculum. Each module is structured to demonstrate core concepts of Object-Oriented Programming (OOP), functional patterns, recursion, and system automation.
 
